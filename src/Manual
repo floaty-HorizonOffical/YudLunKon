@@ -1,0 +1,15 @@
+Installation manual:
+    * Java 16
+    * highly recommended to use: IntelliJ.
+
+To publish your game: (Or follow the official guide by Jetbrains)
+    [!] you need to be using IntelliJ follow this guide!
+    * Goto File/Project Structure/Artifact
+    * press the + and select Jar > From module with dependency
+    * Select the Main.java file(Or your main file). Then press Ok
+
+    * double tap Shift and search: "edit configuration"
+    * press the + button
+    * select Jar Application
+    * Then select "Path to JAR" then select the .jar in out/artifacts/NAME_jar(you may have to build before it shows up)
+    * And.... TA-DA! you're done with the hard part! Now just build and you're done!

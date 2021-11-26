@@ -1,0 +1,8 @@
+YudLunKon's official engine manual (Hopefully not changed by random people)
+    This is for the official version
+
+How to use:
+    * It's highly recommended that you know at least some Java
+    * To add YudLunKon type: import YudLunKon.official.
+        - util: Print, Render(terminal)
+        - debug: Error
