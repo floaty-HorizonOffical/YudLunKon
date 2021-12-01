@@ -9,9 +9,9 @@ You can make:
 > Modifications to the engine
 ---
 ### Installation
-* [ ] Java 16
-* [ ] The source code, and not the release!
-* [ ] It is recommended to use IntelliJ
+* Java 16
+* The source code, and not the release!
+* It is recommended to use IntelliJ
 
 ---
 ## Guide
