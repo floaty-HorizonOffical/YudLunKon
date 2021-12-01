@@ -20,7 +20,7 @@ You can make:
     // It is important to know this
     import YudLunKon.official.*; // replace * with the library you want use, or keep it to add all libraries!
     // Or if you made/downloaded a library use
-    import YudLunKon.custom.*; // replace * with the library you want use, or keep it to add all libraries!
+    import YudLunKon.CUSTOM-LIB_NAME.*; // replace CUSTOM-LIB_NAME with the library package, and * with the library you want use in the lib pack
 ```
 
 #That's all as of for nows
