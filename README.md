@@ -18,9 +18,20 @@ You can make:
 ### Useful lines
 ```java
     // It is important to know this
-    import YudLunKon.official.*; // replace * with the library you want use, or keep it to add all libraries!
+    import YudLunKon.official.*; // replace * with the library you want use
     // Or if you made/downloaded a library use
     import YudLunKon.CUSTOM_LIB_NAME.*; // replace CUSTOM-LIB_NAME with the library package, and * with the library you want use in the lib pack
 ```
+# You can help change the engine!
+## How to help
+All you need to do is:
+> Make a change to the engine(ex. New or changed libraries or changes to the engine)
+> Send a pull request
+> And wait for it to be accepted!
+### Note for: You can help change the engine!
+Your changes will not always be accepted!
+Why? here's a reason:
+> The code may have some code that looks suspicious
+
 
 # That's all as of for now!
