@@ -25,13 +25,12 @@ You can make:
 # You can help change the engine!
 ## How to help
 All you need to do is:
-> Make a change to the engine(ex. New or changed libraries or changes to the engine)
-> Send a pull request
+> Make a change to the engine(ex. New or changed libraries or changes to the engine)<br>
+> Send a pull request<br>
 > And wait for it to be accepted!
 ### Note for: You can help change the engine!
 Your changes will not always be accepted!
 Why? here's a reason:
 > The code may have some code that looks suspicious
-
-
+---
 # That's all as of for now!
