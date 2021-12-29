@@ -1,5 +1,7 @@
 <!-- Introduction -->
-# YudLunKon V-Beta-0.1.0
+# YudLunKon V-Beta-Preview.0.2.0
+#### Note: There are no published Preview yet!
+#### Note: This version of YudLunKon may not work fully!
 It's a simple game engine used for making terminal/console games! (As of now that's not the case)<br>
 It's a free to use and modify engine! All you need to know is a little of java, and you can make games!<br>
 
