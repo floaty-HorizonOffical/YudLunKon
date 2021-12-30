@@ -1,4 +1,3 @@
-<!-- Introduction -->
 # YudLunKon V-Beta-0.1.0
 It's a simple game engine used for making terminal/console games! (As of now that's not the case)<br>
 It's a free to use and modify engine! All you need to know is a little of java, and you can make games!<br>
