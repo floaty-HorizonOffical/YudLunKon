@@ -1,7 +1,9 @@
 package engine.floatyHorizonProduction.yudlunkon;
 
+// DO NOT DELETE THESE LIBRARIES! IT WILL BREAK THE ENGINE MAIN MENU!
 import java.util.Scanner;
 import YudLunKon.official.util.Print;
+import engine.floatyHorizonProduction.yudlunkon.funFacts;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -26,7 +28,7 @@ public class Main {
                         }
                         case 2 -> Print.printNewLn("Whoops! This isn't finished yet! No help for you!");
                         case 3 -> Print.printNewLn("This isn't finished yet! No cheating for now ;)");
-                        case 4 -> Print.printNewLn("This isn't finished yet! No facts for you..!");
+                        case 4 -> funFacts.fact();
                         case 5 -> {
                             Print.printNewLn("Exiting engine...");
                             menuInUse = false;
@@ -44,7 +46,5 @@ class MainGame {
         // Put your game code here!
     }
 }
-
-// fun fact section ex. Fun fact: the name of the engine was made with a random letters generator!
 
 

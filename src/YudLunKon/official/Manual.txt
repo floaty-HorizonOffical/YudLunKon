@@ -1,8 +1,13 @@
 YudLunKon's official engine manual (Hopefully not changed by random people)
     This is for the official version
+Useful things to know:
+    [!] means it's something new
+    [@] means you need to download a file in https://github.com/floaty-HorizonOffical/YudLunKon/releases
+
 
 How to use:
     * It's highly recommended that you know at least some Java
     * To add YudLunKon type: import YudLunKon.official.
-        - util: Print, Render(terminal)
-        - debug: Error
+        - util:    Print, Render(terminal)
+        - debug:   Error
+        - GUI [@]: Popup [!]

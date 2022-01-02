@@ -1,6 +1,8 @@
 This is a template
 
 MOD_NAME's library manual
+Useful things to know:
+    [!] means it's something new
 
 How to use:
     * It's highly recommended that you know at least some Java
