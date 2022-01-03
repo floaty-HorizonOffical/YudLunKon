@@ -24,7 +24,8 @@ You can make:
 # You can help change the engine!
 ## How to help
 All you need to do is:
-> Make a change to the engine(ex. New or changed libraries or changes to the engine)<br>
+> Make a change to the engine(ex. New or changed libraries or changes to the core engine)<br>
+> Make a branch, recommended to be nammed: CE-username-VERSION<br>
 > Send a pull request<br>
 > And wait for it to be accepted!
 ### Note for: You can help change the engine!
