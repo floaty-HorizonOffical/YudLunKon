@@ -3,7 +3,6 @@ package engine.floatyHorizonProduction.yudlunkon;
 // DO NOT DELETE THESE LIBRARIES! IT WILL BREAK THE ENGINE MAIN MENU!
 import java.util.Scanner;
 import YudLunKon.official.util.Print;
-import engine.floatyHorizonProduction.yudlunkon.funFacts;
 
 public class Main {
     public static void main(String[] args) throws Exception {
