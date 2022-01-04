@@ -8,7 +8,7 @@ You can make:
 > Modifications to the engine
 ---
 ### Installation
-* Java 16
+* Java 17
 * The source code, and not the release!
 * It is recommended to use IntelliJ
 
