@@ -25,12 +25,13 @@ You can make:
 ## How to help
 All you need to do is:
 > Make a change to the engine(ex. New or changed libraries or changes to the core engine)<br>
-> Make a branch, recommended to be nammed: CE-username-VERSION<br>
+> Make a fork<br>
 > Send a pull request<br>
 > And wait for it to be accepted!
 ### Note for: You can help change the engine!
 Your changes will not always be accepted!
 Why? here's a reason:
 > The code may have some code that looks suspicious
+> Doesn't help the engine
 ---
 # That's all as of for now!
